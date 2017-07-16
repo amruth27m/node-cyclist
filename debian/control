@@ -17,7 +17,7 @@ Architecture: all
 Depends:
  ${misc:Depends}
  , nodejs
-Description: an efficient cyclic list implementation for Javascript 
+Description: efficient cyclic list implementation for Javascript 
  cyclist creates a list of fixed size that is cyclic. In a cyclist list
  the element following the last one is the first one. 
  .
