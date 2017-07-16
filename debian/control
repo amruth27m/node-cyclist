@@ -17,15 +17,10 @@ Architecture: all
 Depends:
  ${misc:Depends}
  , nodejs
-Description: FIX_ME write the Debian package description
- Write the short and long descriptions for the Debian package as
- explained in the Developer's Reference, §6.2.1 – §6.2.3.
+Description: cyclist is an efficient cyclic list implementation for Javascript 
+ cyclist creates a list of fixed size that is cyclic. In a cyclist list
+ the element following the last one is the first one. 
  .
- You can start with the short upstream package description,
- “Cyclist is an efficient cyclic list implemention.”.
- .
- Be aware that most upstream package descriptions are not written to
- conform with Debian package guidelines. You need to explain the role
- of this package for a Debian audience.
+ This is a dependency for npm, Node.js package manager.
  .
  Node.js is an event-based server-side JavaScript engine.
