@@ -1,0 +1,5 @@
+version=3
+opts=\
+dversionmangle=s/\+(debian|dfsg|ds|deb)(\.\d+)?$//,\
+filenamemangle=s/.*\/v?([\d\.-]+)\.tar\.gz/node-cyclist-$1.tar.gz/ \
+ https://github.com/mafintosh/cyclist/tags .*/archive/v?([\d\.]+).tar.gz
