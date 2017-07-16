@@ -9,7 +9,8 @@
 
 #override_dh_auto_build:
 
-#override_dh_auto_test:
+override_dh_auto_test:
+	tape test.js
 
 
 
