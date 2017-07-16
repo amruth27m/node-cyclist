@@ -1,5 +1,5 @@
-node-cyclist (1.0.1-1) UNRELEASED; urgency=low
+node-cyclist (1.0.1-1) unstable; urgency=low
 
   * Initial release (Closes: #868512)
 
- -- Amruth Lal <amruth27m@gmail.com>  Sun, 16 Jul 2017 06:21:34 +0000
+ -- Amruth Lal <amruth27m@gmail.com>  Sun, 16 Jul 2017 09:55:21 +0000
