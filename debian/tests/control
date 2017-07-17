@@ -2,4 +2,4 @@ Tests: require
 Depends: node-cyclist
 
 Test-Command: tape test.js
-Depends: @, tape
+Depends: @, node-tape
